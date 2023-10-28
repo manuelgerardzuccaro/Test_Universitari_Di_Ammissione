@@ -1,0 +1,8 @@
+# Ignora la directory .vs
+.vs/
+
+# Ignora la directory .vscode
+.vscode/
+
+# Ignora i .exe
+.exe/

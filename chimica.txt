@@ -1,0 +1,243 @@
+Quale e' la natura del legame O-H nella molecola di acqua?
+A) Covalente puro
+B) Ad idrogeno
+C) Ionico
+D) Covalente polare
+E) Metallico
+
+D
+
+Un ossidante forte ha:
+A) una spiccata tendenza a donare elettroni
+B) una spiccata tendenza a ricevere protoni
+C) una spiccata tendenza a donare protoni
+D) nessuna delle altre risposte è corretta
+E) una spiccata tendenza a ricevere elettroni
+
+A
+
+Dove si trovano i neutroni?
+A) In orbite attorno al nucleo atomico
+B) Nei legami tra atomi
+C) Nel nucleo dell’atomo
+D) Negli atomi, come doppietti non condivisi
+E) Negli atomi paramagnetici come particelle spaiate
+
+C
+
+Nei cosiddetti “saponi” quali molecole organiche ci sono?
+A) Alcani
+B) Sali di acidi grassi a catena lunga
+C) Alcheni
+D) Alcoli
+E) Esteri
+
+B
+
+Negli ossiacidi a quale elemento e' legato l’idrogeno acido?
+A) Al carbonio
+B) Al non-metallo
+C) Ad un altro atomo di idrogeno
+D) All’ossigeno
+E) All’azoto
+
+D
+
+Si prelevi 1mL di una soluzione 1M di un qualsivoglia soluto. Quanto vale la concentrazione di quel volume di soluzione prelevato?
+A) 1 mM
+B) 1000 M
+C) 0.001 M
+D) 1 M
+E) Non e' determinabile
+
+D
+
+La costante Kc di una reazione all’equilibrio:
+A) varia solo modificando il volume del sistema
+B) varia solo modificando la temperatura del sistema
+C) in quanto costante non varia mai
+D) varia solo modificando il numero di moli
+E) varia solo modificando la pressione totale del sistema
+
+B
+
+La Kw dell’acqua in una soluzione 10^−2 M di KCl a 25(gradi) C è:
+A) 10^−14
+B) 10^−7
+C) 10^−2
+D) 0
+E) 10^14
+
+B
+
+Quanti elettroni sono contenuti nell’atomo di un elemento con configurazione elettronica [Ne] 3s^1?
+A) 11
+B) 9
+C) 4
+D) 14
+E) 8
+
+A
+
+Confrontando le soluzioni 0,1 M di fruttosio (C6H12O6), 0,1 M di cloruro di potassio (KCl) e 0,1 M di cloruro di calcio (CaCl2) a 25(gradi) C, si può affermare che:
+A) le soluzioni hanno un pH differente
+B) le soluzioni hanno la stessa tensione di vapore
+C) la soluzione contenente cloruro di calcio e' quella che bolle a temperatura inferiore
+D) la soluzione contenente fruttosio è quella con la minore temperatura di congelamento
+E) la soluzione contenente fruttosio è quella con la minore pressione osmotica
+
+E
+
+Alla fine di una reazione equimolare completa di neutralizzazione tra un acido forte monoprotico e una base forte monoprotica in soluzione avremo:
+A) sale che da idrolisi acida
+B) sale che da idrolisi neutra
+C) sale che da idrolisi basica
+D) sale che non da idrolisi
+E) una soluzione tampone
+
+B
+
+La formula della legge di Henry per il calcolo della concentrazione di un gas in un liquido e':
+A) PV = nRT
+B) P = kT
+C) C = kP
+D) P = cRT
+E) C = nkP
+
+C
+
+Se l’aggiunta di un sale provoca un innalzamento del pH, questo significa che:
+A) il sale reagendo con l’acqua è andato incontro ad una idrolisi acida
+B) il sale reagendo con l’acqua ha provocato un innalzamento della Kw
+C) e' avvenuta una reazione redox e dalla soluzione si sono sviluppati idrogeno e ossigeno gassosi
+D) il sale reagendo con l’acqua è andato incontro ad una idrolisi basica
+E) il sale era il prodotto di una reazione di neutralizzazione tra un acido forte ed una base forte
+
+D
+
+Quale e' la formula generale per indicare i termini della serie degli alcani?
+A) C2n H2n+2
+B) Cn H2n−2
+C) Cn H2n
+D) C2n Hn
+E) Cn H2n+2
+
+A
+
+Il composto che ha formula CH3-CH2-CHOH-CH2-CH3:
+A) e' un alcol terziario
+B) e' un estere
+C) e' un chetone
+D) e' un alcol secondario
+E) e' una aldeide
+
+D
+
+Gli elementi chimici conosciuti sono:
+A) circa 80
+B) circa 160
+C) circa 120
+D) circa 200
+E) circa 240
+
+D
+
+La distillazione è un metodo che consente di separare due o piu' sostanze allo stato liquido con differente:
+A) densita'
+B) peso specifico
+C) solubilità
+D) punto di ebollizione
+E) massa molare
+
+D
+
+Quale dei seguenti elementi, dei quali è indicato il numero atomico Z, è un elemento di transizione?
+A) Ca (Z=20)
+B) Cl (Z=17)
+C) Cs (Z=55)
+D) C (Z=6)
+E) Cu (Z=29)
+
+E
+
+Quali legami covalenti sono presenti tra l'atomo di cloro e gli atomi di ossigeno nella molecola HClO4?
+A) 2 semplici e 2 dativi
+B) 3 semplici e 1 doppio
+C) 2 semplici e 2 doppi
+D) 1 semplice e 3 dativi
+E) 1 semplice e 3 doppi
+
+C
+
+La variazione di quale dei seguenti fattori modifica il valore della costante di equilibrio Kc di una reazione?
+A) Concentrazione dei reagenti
+B) Presenza di catalizzatori
+C) Temperatura
+D) Stato di suddivisione dei reagenti
+E) Velocità della reazione diretta
+
+C
+
+La relazione p/T = k rappresenta:
+A) la legge isobara
+B) la legge isoterma
+C) la legge di Charles
+D) la legge isocora
+E) la legge di Boyle
+
+E
+
+Dalla disidratazione di un alcool si ottiene:
+A) un alcano
+B) un’aldeide
+C) un chetone
+D) un alchene
+E) un etere
+
+D
+
+Le sostanze che disciolte in acqua liberano ioni sono dette:
+A) ionizzanti
+B) solubili
+C) elettrofile
+D) elettroforetiche
+E) elettrolitiche
+
+E
+
+Quale dei seguenti e' l’acido più debole?
+A) H2SO4
+B) H2CO3
+C) H3PO4
+D) HCl
+E) HNO3
+
+C
+
+Nella seguente reazione redox qual e' la specie chimica riducente?
+Cr3+ + MnO4- + H2O → Cr2O72- + Mn2+ + H+
+A) Cr3+
+B) MnO4-
+C) Cr2O72-
+D) Mn2+
+E) H+
+
+B
+
+Per le infusioni endovenose si utilizza normalmente una soluzione di NaCl 0,9% m/v. La soluzione ottenuta:
+A) ha un’osmolarità pari a 1,5 volte quella del plasma
+B) contiene 9g di cloruro di sodio in 1L di soluzione
+C) e' ipotonica rispetto al plasma
+D) ha un’osmolarità pari a 0,9 volte quella del plasma
+E) contiene 0,9 moli di NaCl in 100mL di soluzione
+
+D
+
+"Tutte le soluzioni liquide di soluti non volatili hanno una pressione di vapore più bassa rispetto al solvente puro". Tale affermazione e' riferibile alla legge formulata da:
+A) W. Henry
+B) T. Graham
+C) F. M. Raoult
+D) W.H. Nernst
+E) G.H. Hess
+
+C

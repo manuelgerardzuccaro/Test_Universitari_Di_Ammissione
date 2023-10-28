@@ -1,0 +1,207 @@
+Gli organismi eterotrofi:
+A) Sono in grado di sintetizzare le proprie sostanze nutritive
+B) Acquisiscono energia partendo da sostanze organiche prodotte dagli autotrofi
+C) Si trovano solo tra i procarioti
+D) Sono tutti eucarioti
+E) Utilizzano l'energia solare per sintetizzare glucosio a partire da sostanze inorganiche
+
+B
+
+Gli esseri viventi:
+A) Sono tutti visibili ad occhio nudo
+B) Sono o vegetali o animali
+C) Sono tutti pluricellulari
+D) Si dividono sempre per mitosi
+E) Sono tutti composti da cellule
+
+E
+
+Le coppie di basi complementari che si ritrovano nella struttura a doppia elica del DNA sono:
+A) Sempre coppie di una purina con un’altra purina
+B) Sempre coppie di una pirimidina con un’altra pirimidina
+C) Timina-adenina, citosina-guanina
+D) Dimeri di pirimidine
+E) Desossiribonucleotidi-trifosfati
+
+C
+
+La membrana plasmatica si trova:
+A) Solo nelle cellule procariotiche
+B) Solo nelle cellule eucariotiche
+C) Solo nelle cellule animali
+D) In tutte le cellule
+E) In tutte le cellule meno quelle vegetali
+
+D
+
+Una anomalia in cui e' presente un cromosoma in piu' o uno in meno rispetto al normale e' detta:
+A) Trisomia
+B) Aneuploidia
+C) Monosomia
+D) Cariotipo
+E) Traslocazione
+
+B
+
+Nelle cellule che svolgono attività secretoria e' particolarmente sviluppato:
+A) Il nucleo
+B) L'apparato del Golgi
+C) Il rivestimento delle cellule
+D) Il numero dei lisosomi
+E) Il numero dei mitocondri
+
+B
+
+La comparsa di proprietà differenziate in una cellula eucariote e' possibile grazie a:
+A) espressione selettiva di geni specifici
+B) ridondanza genica
+C) espressione sequenziale di tutti i geni
+D) delezione selettiva di geni specifici
+E) inibizione simultanea di tutti i geni
+
+A
+
+Le membrane biologiche sono semipermeabili. Cio' significa che il passaggio di sostanze attraverso di esse:
+A) avviene sempre con consumo d'energia
+B) e' sempre mediato da canali
+C) e' completamente libero dall'esterno verso l'interno
+D) e' completamente libero dall'interno verso l'esterno
+E) non è completamente libero
+
+E
+
+Quale delle seguenti affermazioni non è corretta riguardo alla replicazione del DNA?
+A) La DNA elicasi separa i due filamenti del DNA
+B) Le proteine leganti il singolo filamento tengono separati i filamenti
+C) La DNA polimerasi richiede un primer e può sintetizzare un nuovo filamento di DNA soltanto in direzione 5'-3'
+D) La replicazione comporta la formazione di frammenti di Okazaki sia sul filamento guida che su quello in ritardo
+E) La DNA topoisomerasi riduce l'avvolgimento del DNA davanti alla forca di replicazione
+
+C
+
+Le proteine che formano complessi regolativi con le chinasi che governano i processi che avvengono durante le fasi G1, S, G2, ed M del ciclo cellulare sono chiamate:
+A) Dineine
+B) Connessine
+C) Cicline
+D) Integrine
+E) Clatrina
+
+C
+
+La teoria endosimbiotica e' proposta per spiegare:
+A) l'origine degli organelli membranosi intracellulari
+B) l'esistenza di un unico specifico precursore degli eucarioti
+C) che le cellule eucariotiche sono il prodotto dell'evoluzione dei procarioti
+D) l'origine dei mitocondri e dei cloroplasti
+E) che le cellule eucariotiche possono dare origine ad organismi multicellulari
+
+D
+
+La struttura primaria di una proteina:
+A) e' la struttura tridimensionale della proteina
+B) e' data dalla sequenza degli amminoacidi che la compongono
+C) e' la struttura di alcuni segmenti della proteina
+D) non esiste
+E) e' la struttura dei domini primari che la compongono
+
+B
+
+L’energia rilasciata durante il passaggio di elettroni nella catena di trasporto degli elettroni viene utilizzata per creare, ai due lati della membrana interna dei mitocondri, un gradiente di:
+A) ADP
+B) ATP
+C) Ossigeno
+D) Protoni
+E) Elettroni
+
+D
+
+Quali tra i seguenti ioni o molecole passano per diffusione semplice attraverso il doppio strato lipidico della membrana plasmatica?
+A) Ioni Sodio
+B) Glucosio
+C) Peptidi
+D) Ioni Cloruro
+E) Ossigeno
+
+E
+
+Gli anticorpi sono:
+A) proteine di origine virale
+B) proteine in grado di combinarsi con uno specifico antigene
+C) cellule del sistema immunitario
+D) proteine di origine batterica
+E) geni in grado di combinarsi con uno specifico antigene
+
+B
+
+Un allele e':
+A) la forma alternativa di una proteina presente nello stesso locus di cromatidi fratelli
+B) la forma alternativa di un gene presente nello stesso locus di cromosomi omologhi
+C) la duplicazione di un gene all’interno di un cromosoma
+D) la forma alternativa di un gene presente su loci diversi all’interno dello stesso cromosoma
+E) un’isoforma alternativa di un RNA messaggero
+
+B
+
+Se una tossina batterica distrugge i ribosomi, quale attività cellulare sarà influenzata per prima?
+A) Sintesi proteica
+B) Sintesi del DNA
+C) Movimento
+D) Stoccaggio di energia
+E) Trasporto attivo
+
+A
+
+Gli enzimi sono catalizzatori biologici di natura:
+A) monosaccaridica
+B) polisaccaridica
+C) steroidea
+D) proteica
+E) lipidica
+
+D
+
+Quale fra le seguenti non e' una funzione del sistema linfatico?
+A) Ritorno al sangue dei fluidi tissutali in eccesso
+B) Trasporto dei grassi assorbiti dal sistema digerente
+C) Difesa del corpo contro le malattie
+D) Trasporto di proteine
+E) Produzione dei globuli bianchi
+
+D
+
+Il sistema endocrino e' in grado di:
+A) contribuire al mantenimento dell’equilibrio dei processi fisiologici
+B) modificare il metabolismo delle cellule
+C) inviare messaggi agli organi bersaglio
+D) tutte le altre risposte sono corrette
+E) utilizzare segnali chimici come sistema di comunicazione
+
+D
+
+Qual e' il nome del processo mediante il quale le molecole fluiscono da un'area di maggiore concentrazione a una di minore concentrazione?
+A) Trasfusione
+B) Respirazione
+C) Diffusione
+D) Dialisi
+E) Trasporto attivo primario
+
+C
+
+Il capside di un virus consiste di:
+A) acidi nucleici
+B) subunità proteiche
+C) RNA e lipidi
+D) polisaccaridi
+E) lipidi elicoidali
+
+B
+
+Quali gruppi funzionali sono presenti in una molecola di glucosio nella sua forma lineare?
+A) 1 gruppo chetonico e 5 gruppi ossidrilici
+B) 1 gruppo chetonico e 4 gruppi ossidrilici
+C) 1 gruppo aldeidico e 5 gruppi ossidrilici
+D) 1 gruppo aldeidico, un gruppo chetonico e 4 gruppi ossidrilici
+E) 1 gruppo aldeidico e 6 gruppi ossidrilici
+
+C
+

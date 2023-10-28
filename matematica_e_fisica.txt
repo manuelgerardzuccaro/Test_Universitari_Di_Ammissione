@@ -1,0 +1,44 @@
+Qual è l’equazione cartesiana del luogo geometrico dei punti del piano assegnato dalle equazioni parametriche "x = t^2" e "y = t^4" dove x è un numero reale?
+A) y = x^4, x > 0
+B) y = x^4
+C) y = x^2, x ≥ 0
+D) y = 2x, x ≥ 0
+E) y = x^2, x > 0
+
+C
+
+Considerati gli eventi A, B, C è noto che: A, C sono incompatibili e B, C sono indipendenti, P(A) = 0,12, P(B) = 0,60. Qual è la probabilità dell’evento C se P(A unione C) = P(B unione C).
+A) 0,8
+B) 0,6
+C) 0,2
+D) 0,4
+E) 0,88
+
+D
+
+Sia ABCD un trapezio rettangolo circoscritto ad una semicirconferenza avente per diametro l’altezza AD. Quale delle seguenti relazioni è vera?
+A) BC è circa uguale a 2AB
+B) BC è circa uguale a AB + AD
+C) BC è circa uguale a AB + CD
+D) BC è circa uguale a 2CD
+E) BC è circa uguale a CD + AD
+
+B
+
+Un astronauta compie una passeggiata spaziale a una distanza dalla superficie terrestre pari al triplo del raggio terrestre. A quale frazione di g (accelerazione di gravità) corrisponde l’accelerazione subita dall’astronauta?
+A) 1/4
+B) 1/3
+C) 1/16
+D) 1/9
+E) 1/8
+
+C
+
+Due sferette isolanti, rispettivamente di carica q e 2q e raggi r e 2r, vengono poste a contatto. Qual è la carica sulla sferetta di raggio r dopo il contatto?
+A) q
+B) 3q
+C) 2q
+D) 0,5q
+E) 1,5q
+
+B
